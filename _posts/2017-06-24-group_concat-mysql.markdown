@@ -1,11 +1,10 @@
 ---
 title:  "Utilizando GROUP_CONCAT() no MySQL"
-description: Um pouco sobre como utilizar esse função no MySQL
 date: 2017-06-24 14:57:38
 category: MySQL
 ---
 
-# Função GROUP_CONCAT() 
+
 A função <span class="code">GROUP_CONCAT()</span> serve pra trazer todos os resultados de uma coluna de uma tabela em uma linha só. 
 Exemplo, eu tenho a tabela contas:
 

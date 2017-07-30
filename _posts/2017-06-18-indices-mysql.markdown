@@ -1,12 +1,9 @@
 ---
 title:  "Índices no MySQL"
 date:   2017-06-18 22:07:20
-description: Explicando um pouco sobre índices no MySQL
 category: MySQL
 ---
 
-
-# Índices no MySQL
 
 Imagine que você tenha que estudar sobre as funções do MySQL em um determinado livro que aborda o assunto, porem nesse livro não há um sumário pra você saber em quais páginas se encontra a explicações sobre funções do MySQL, nesse caso você terá que folhear o livro até chegar nas páginas do assunto que você quer estudar. Se houvesse um sumário nesse livro, você demoraria menos tempo pra achar o que queria. A mesma coisa acontece numa consulta SQL. Para entender melhor: 
 

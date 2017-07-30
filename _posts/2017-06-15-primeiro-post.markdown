@@ -1,7 +1,6 @@
 ---
 title:  "Primeiro Post!"
 date:   2017-06-15 19:36:00
-description: Primeiro post no blog
 ---
 
 # Primeiro post

@@ -8,13 +8,13 @@ Recentemente eu tive que fazer um evento de clique funcionar em um botão de um 
 
 Imagine o seguinte formulário:
 
-![Foto formulário]({{ site.baseurl }}assets/img/testa-js.png)
+![Foto formulário]({{ site.baseurl }}../assets/img/testa-js.png)
 
 Observe que no botão eu adicionei um evento que chama a função <span class="code">clicou()</span>. Se eu clicar no botão, o evento que eu adicionei não vai funcionar. Não vai funcionar pois quando eu clicar no botão, a página vai ser __recarregada__ e eu nem vou ver a mensagem da função <span class="code">clicou()</span>. 
 
 Para que a página não seja recarregada após eu clicar no botão, basta eu __evitar o comportamento padrão do botão__. Eu posso fazer isso de algumas maneiras, uma maneira bem fácil de resolver isso basta adicionar o atributo <span class="code">type="button"</span> ao botão. Exemplo:
 
-![Foto formulário]({{ site.baseurl }}assets/img/testa-js2.png)
+![Foto formulário]({{ site.baseurl }}../assets/img/testa-js2.png)
 
 Dessa maneira sim, a função <span class="code">cliclou()</span> funcionará.
 

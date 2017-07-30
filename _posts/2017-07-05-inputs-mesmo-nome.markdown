@@ -4,8 +4,6 @@ date:   2017-07-05 20:48:36
 category: PHP
 ---
 
-### Recuperando input's que tenham o mesmo HTML name no PHP
-
 Imaginem o seguinte formulário:
 
 <script src="https://gist.github.com/LeandroLS/373299ad663cfacabd849b91ed0d5bc3.js"></script>

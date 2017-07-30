@@ -5,8 +5,6 @@ date: 2017-06-27 16:24:48
 category: MySQL
 ---
 
-# Alterando sql-mode no MySQL
-
 Recentemente eu fiz um <span class="code">SELECT</span> e me deparei com esse erro:
 
 <div class="hljs">
