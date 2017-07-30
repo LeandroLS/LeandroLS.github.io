@@ -10,9 +10,9 @@ Imagine o seguinte formulário:
 
 ![Foto formulário]({{ site.baseurl }}../assets/img/testa-js.png)
 
-Observe que no botão eu adicionei um evento que chama a função <span class="code">clicou()</span>. Se eu clicar no botão, o evento que eu adicionei não vai funcionar. Não vai funcionar pois quando eu clicar no botão, a página vai ser __recarregada__ e eu nem vou ver a mensagem da função <span class="code">clicou()</span>. 
+Observe que no botão eu adicionei um evento que chama a função <span class="code">clicou()</span>. Aparentemente está tudo certo, após eu clicar no botão a função <span class="code">clicou()</span> deveria funcionar, certo ? Era assim que eu pensava, só que se eu clicar no botão, o evento que eu adicionei não vai funcionar. Não vai funcionar pois quando eu clicar, a página vai ser __recarregada__ e eu nem vou ver a mensagem da função <span class="code">clicou()</span>. 
 
-Para que a página não seja recarregada após eu clicar no botão, basta eu __evitar o comportamento padrão do botão__. Eu posso fazer isso de algumas maneiras, uma maneira bem fácil de resolver isso basta adicionar o atributo <span class="code">type="button"</span> ao botão. Exemplo:
+A origem do problema é que ao clicar no botão, a página recarrega. Para que a página não seja recarregada após eu clicar no botão, basta eu __evitar o comportamento padrão do botão__. Eu posso fazer isso de algumas maneiras, uma maneira bem fácil de resolver isso basta adicionar o atributo <span class="code">type="button"</span> ao botão. Exemplo:
 
 ![Foto formulário]({{ site.baseurl }}../assets/img/testa-js2.png)
 
