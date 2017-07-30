@@ -1,7 +1,7 @@
 ---
 title:  "Evitando comportamento padrão de um form de maneira simples"
 date:   2017-07-29 19:39:46
-
+comments: true
 ---
 
 Recentemente eu tive que fazer um evento de clique funcionar em um botão de um formulário e perdi um tempo enorme tentando entender porque não funcionava o evento que implementei. Decidi postar aqui a solução pra esse "problema".

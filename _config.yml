@@ -4,11 +4,12 @@ bio:                'Blogando sobre programação.'
 #description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.jpg'
+logo:               'assets/img/leandro.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://leandrols.github.io
+#url:               http://127.0.0.1:4000
 
 
 # Jekyll
@@ -27,7 +28,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:  'Leandro Lima'
+disqus_shortname:  leandro-lima
 
 # Social
 # if you don't have any of social below, comment the line.
