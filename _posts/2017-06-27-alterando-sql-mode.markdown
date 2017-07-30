@@ -3,6 +3,7 @@ title:  "Alterando sql-mode no MySQL"
 description: Como mudar o sql-mode que vem padrão no MySQL
 date: 2017-06-27 16:24:48
 category: MySQL
+comments: true
 ---
 
 Recentemente eu fiz um <span class="code">SELECT</span> e me deparei com esse erro:

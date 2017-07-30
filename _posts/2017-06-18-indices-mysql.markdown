@@ -2,6 +2,7 @@
 title:  "Índices no MySQL"
 date:   2017-06-18 22:07:20
 category: MySQL
+comments: true
 ---
 
 

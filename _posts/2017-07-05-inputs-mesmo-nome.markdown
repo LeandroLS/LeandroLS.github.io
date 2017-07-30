@@ -2,6 +2,7 @@
 title:  "Recuperando no PHP form input's que tenham o mesmo nome"
 date:   2017-07-05 20:48:36
 category: PHP
+comments: true
 ---
 
 Imaginem o seguinte formulário:
