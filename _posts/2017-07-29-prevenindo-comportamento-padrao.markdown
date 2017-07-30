@@ -22,5 +22,5 @@ Quando voce adiciona <span class="code">button</span> dentro de um <span class="
 
 Quando você seta o atributo <span class="code">type="button"</span>, você tira o comportamento padrão do botão, ele não vai tentar enviar os dados do <span class="code">form</span> e não vai recarregar a página.
 
-Para maiores detalhes, recomendo consultar a documentação da [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/doacs/Web/HTML/Element/button).
+Para maiores detalhes, recomendo consultar a documentação da [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/button).
 

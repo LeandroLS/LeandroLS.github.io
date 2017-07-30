@@ -5,7 +5,7 @@ bio:                'Blogando sobre programação.'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/leandro.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/coding-note.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://leandrols.github.io
