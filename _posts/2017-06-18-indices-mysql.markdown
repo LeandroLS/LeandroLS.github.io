@@ -10,7 +10,7 @@ Imagine que você tenha que estudar sobre as funções do MySQL em um determinad
 
 Vamos supor que eu tenha uma tabela chamada <span class="code">`livros`</span>
 
-![Descrição tabela livros]({{ site.baseurl }}assets/img/indices-mysql.png)
+![Descrição tabela livros]({{ site.baseurl }}../assets/img/indices-mysql.png)
 
 Nessa tabela eu tenho 20 mil registros:
 

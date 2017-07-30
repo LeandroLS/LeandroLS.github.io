@@ -33,7 +33,7 @@ Para carregar o <span class="code">sql_mode</span> definido por você ao iniciar
 
 Edite o arquivo my.cnf setando o sql-mode:
 
-![my.cnf editado]({{ site.baseurl }}assets/img/sql-mode.png)
+![my.cnf editado]({{ site.baseurl }}../assets/img/sql-mode.png)
 
 Tem que colocar o __[mysqld]__ para funcionar. 
 

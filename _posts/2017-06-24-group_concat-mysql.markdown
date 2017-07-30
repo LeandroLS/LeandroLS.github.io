@@ -9,7 +9,7 @@ comments: true
 A função <span class="code">GROUP_CONCAT()</span> serve pra trazer todos os resultados de uma coluna de uma tabela em uma linha só. 
 Exemplo, eu tenho a tabela contas:
 
-![Descrição tabela contas]({{ site.baseurl }}assets/img/GROUP_CONCATnoMySQL.png)
+![Descrição tabela contas]({{ site.baseurl }}../assets/img/GROUP_CONCATnoMySQL.png)
 
 <span class="code">SELECT</span> normal na tabela contas:
 
