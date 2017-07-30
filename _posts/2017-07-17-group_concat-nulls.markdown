@@ -15,13 +15,13 @@ Observe que eu adicionei algumas frutas com valores nullos.
 
 Se eu fizer um select de todos os campos da tabela o resultado é esse:
 
-![Descrição tabela frutas]({{ site.baseurl }}assets/img/group_concat-nulls.png)
+![Descrição tabela frutas]({{ site.baseurl }}../assets/img/group_concat-nulls.png)
 
 Observe que há duas frutas que vieram sem nome, está nullo. 
 
 Se eu selecionar a coluna <span class="code">nome_frutas</span> com <span class="code">GROUP_CONCAT()</span> os valores nullos não serão trazidos e o resultado é esse:
 
-![Resultado GROUP_CONCAT() tabela frutas]({{ site.baseurl }}assets/img/group_concat-nulls-2.png)
+![Resultado GROUP_CONCAT() tabela frutas]({{ site.baseurl }}../assets/img/group_concat-nulls-2.png)
 
 ### Para trazer os valores nullos
 
@@ -31,7 +31,7 @@ Para trazer os valores nullos com <span class="code">GROUP_CONCAT()</span> é pr
 
 Resultado:
 
-![Resultado GROUP_CONCAT() com IFNULL]({{ site.baseurl }}assets/img/group_concat-nulls-3.png)
+![Resultado GROUP_CONCAT() com IFNULL]({{ site.baseurl }}../assets/img/group_concat-nulls-3.png)
 
 Veja que as linhas onde havia valores nullos foram trazidas.
 
