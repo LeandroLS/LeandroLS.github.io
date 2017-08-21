@@ -15,3 +15,5 @@ Navegadores que suportam esse atributo:
 * Safari 5.1+ 
 * Firefox 4+
 * Chrome 10+
+
+Até a próxima. :)
