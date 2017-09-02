@@ -9,8 +9,8 @@ logo:               'assets/img/leandro.jpg'
 background:         'assets/img/coding-note.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://leandrols.github.io
-#url:               http://127.0.0.1:4000
+#url:                https://leandrols.github.io
+url:               http://127.0.0.1:4000
 
 
 # Jekyll
@@ -44,7 +44,7 @@ disqus_shortname:  leandro-lima
 #twitter:            le_limasilva
 #facebook:           username
 github-url:         LeandroLS
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:      42664/leandro-lima  # from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           llimasilva
 #xing:              username
 #instagram:          username
@@ -53,7 +53,7 @@ linkedin:           llimasilva
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              leandrowx
+#steam:             leandrowx
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
