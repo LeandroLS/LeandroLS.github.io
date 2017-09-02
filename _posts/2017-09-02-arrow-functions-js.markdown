@@ -13,6 +13,6 @@ Utilizando <span class="code">Arrow Function</span> eu consigo fazer a mesma coi
 
 <script src="https://gist.github.com/LeandroLS/e7b978d8b9702acad358d77dca639f73.js"></script>
 
-Veja que eu tirei a palavra reservada <span class="code">function</span> e coloquei a "flecha" (arrow rs) <span class="code"> => </span> em seguida dos parênteses. A função fica menos verbosa(menos código) e funciona da mesma maneira. Eu particulamente gosto de fazer mais da 1ª maneira, acho mais fácil de ler o código. 
+Veja que eu tirei a palavra reservada <span class="code">function</span> e coloquei a "flecha" (arrow rs) <span class="code"> => </span> em seguida. A função fica menos verbosa(menos código) e funciona da mesma maneira. Eu particulamente gosto de fazer mais da 1ª maneira, acho mais fácil de ler o código. 
 
 
