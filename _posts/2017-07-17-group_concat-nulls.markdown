@@ -5,7 +5,7 @@ category: MySQL
 comments: true
 ---
 
-Já fiz um [post]({{ site.baseurl }}{{ post.url | remove_first: '/' }}group_concat-mysql/) no blog sobre a função <span class="code">GROUP_CONCAT()</span> do MySQL, vou voltar a falar mais um pouco sobre ela. Recentemente precisei usar essa função novamente e observei que ela não traz valores nullos, mas no caso em que eu estava eu precisava que ela trouxesse esses valores. Existe uma maneira fácil de resolver isso e vou explicar mais abaixo. 
+Já fiz um [post]({{ site.baseurl }}/group_concat-mysql/) no blog sobre a função <span class="code">GROUP_CONCAT()</span> do MySQL, vou voltar a falar mais um pouco sobre ela. Recentemente precisei usar essa função novamente e observei que ela não traz valores nullos, mas no caso em que eu estava eu precisava que ela trouxesse esses valores. Existe uma maneira fácil de resolver isso e vou explicar mais abaixo. 
 
 Para o exemplo irei usar uma tabela chamada <span class="code">frutas</span>:
 
