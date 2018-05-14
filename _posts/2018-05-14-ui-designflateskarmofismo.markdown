@@ -1,14 +1,14 @@
 ---
 title:  ""
-description: Como mudar o sql-mode que vem padrão no MySQL
+description: Sobre Flat Design
 date: 2018-05-14 10:03:48
-category: UI
+category: Design
 comments: true
 ---
-# Sobre UI Design
+# Sobre Flat Design
 Comecei a estudar um pouco de web design recentemente, minhas habilidades nessa área não são muito boas, por isso comecei a estudar. Comprei um curso EAD na [origamid.com](https://www.origamid.com/) muito bom, recomendo.
   
-### Flat Design  
+### O que é Flat Design  
 Flat Design **bem** resumidamente é um design "clean", minimalista, sem efeito de sombra, brilho e coisas desse tipo nas interfaces.
 
 Exemplos de interface que utiliza Flat Design:
