@@ -1,6 +1,5 @@
 ---
-title:  ""
-description: Sobre Flat Design
+title:  "Sobre Flat Design"
 date: 2018-05-14 10:03:48
 category: Design
 comments: true
