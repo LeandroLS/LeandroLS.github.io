@@ -5,13 +5,30 @@ category: PHP
 comments: true
 ---
 
-O escopo de uma variável definida em PHP, é o escopo do seu contexto atual, onde ela foi definida.
+Após definir uma variável em PHP, o escopo dela é o escopo do seu contexto atual, onde ela foi definida.
 
 ```php
 <?php
-$a = 1;
-include 'teste2.php';
+$a = "sou a variável $a";
+include 'teste.php';
 ?>
 ```
-Nesse exemplo acima a variável `$a` estará disponível no script atual e no arquivo `teste2.php`
+Nesse exemplo acima a variável `$a` estará disponível no script atual e no arquivo `teste.php`.
+
+Porem, quando uma variável é declarada dentro de uma função definida pelo usuário, ela ganha outro escopo, que é o escopo local da função. A variável só é acessível apenas dentro daquela função. Exemplo:
+
+```php
+<?php 
+$a = "sou a variável $a"; /* Escopo global, está acessível em todo script */
+
+function teste(){
+    /* referencia uma variável dentro do escopo da função, não está referenciando $a do escopo global */
+    echo $a; 
+}
+
+teste();
+?>
+```
+
+O script acima não produz resultado nenhum. Porque a função `teste()` chama a variável `$a` que não foi declarada dentro do escopo da variável. 
 
