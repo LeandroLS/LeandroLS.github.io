@@ -1,6 +1,6 @@
 ---
-title:  "Projeto Teste Habilidade PHP"
-date:   2018-10-21 19:36:00
+title: "Projeto Teste Habilidade PHP"
+date: 2018-10-21 19:36:00
 category: PHP
 comments: true
 ---
