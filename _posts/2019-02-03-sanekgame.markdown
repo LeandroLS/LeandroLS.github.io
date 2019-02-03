@@ -6,6 +6,3 @@ comments: true
 ---
 Me desafiei a criar o "jogo da cobrinha" apenas com JavaScript. Foi bem desafiador, em um momento eu achei que não ia conseguir KKK. Mas acabou saindo. Se quiser dar uma olhada, aqui está o link do repositório [SnakeGame](https://github.com/LeandroLS/SnakeGame/tree/master)
 
-Exemplo do game: 
-![](https://github.com/LeandroLS/SnakeGame/blob/master/gifExample.gif)
-
