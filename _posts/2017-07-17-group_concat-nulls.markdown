@@ -3,6 +3,7 @@ title:  "Recuperando valores nullos com GROUP_CONCAT()"
 date:   2017-07-17 19:16:22
 category: MySQL
 comments: true
+description: "GROUP_CONCAT() com valores nullos"
 ---
 
 Já fiz um [post]({{ site.baseurl }}/group_concat-mysql/) no blog sobre a função <span class="code">GROUP_CONCAT()</span> do MySQL, vou voltar a falar mais um pouco sobre ela. Recentemente precisei usar essa função novamente e observei que ela não traz valores nullos, mas no caso em que eu estava trablahndo eu precisava que ela trouxesse esses valores. Existe uma maneira fácil de resolver isso e vou explicar mais abaixo. 

@@ -2,6 +2,7 @@
 title:  "Como colocar um submit button fora do form"
 date:   2017-08-21 19:36:00
 comments: true
+description : "Submit button fora do formulário"
 ---
 
 Olá. Hoje eu "precisei" fazer com que um botão fora de uma tag <span class="code">form</span> fizesse a submissão de um <span class="code">form</span>. A princípio eu achei que não era possível, mas com uns 5 minutos de pesquisa na internet eu descobri que agora o HTML5 tem um novo atributo chamado <span class="code">form</span> que me ajuda nisso. Assim que se usa: 

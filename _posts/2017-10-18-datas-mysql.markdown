@@ -2,6 +2,7 @@
 title:  "Trabalhando com datas no MySQL"
 date:   2017-10-18 17:00:00
 comments: true
+description: "Formatando datas no MySql"
 ---
 Quando eu comecei a trabalhar na área de desenvolvimento, eu tive bastante dificuldade pra recuperar e inserir datas no banco de dados, depois de um tempo consegui pegar uma experiência e já me sinto seguro pra postar algo sobre.
 

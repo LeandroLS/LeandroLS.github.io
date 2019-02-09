@@ -3,6 +3,7 @@ title:  "Sobre Flat Design"
 date: 2018-05-14 10:03:48
 category: Design
 comments: true
+description: "Explicando sobre Design Flat x Skarmofismo"
 ---
 
 Comecei a estudar um pouco de web design recentemente, minhas habilidades nessa área não são muito boas, por isso comecei a estudar. Comprei um curso EAD na [origamid.com](https://www.origamid.com/) muito bom, recomendo.

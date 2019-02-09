@@ -3,7 +3,7 @@ title: "Objeto arguments em JavaScript "
 date: 2018-11-02
 category: Javascript
 comments: true
-thumbnail: false
+description: "Objeto arguments em javascript"
 ---
 
 Tenho estudado bastante JavaScript nas últimas semanas, durante esses estudos, descobri um objeto interessante que eu não havia o conhecido antes. Esse objeto é o `arguments`.  

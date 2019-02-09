@@ -3,6 +3,7 @@ title:  "Utilizando GROUP_CONCAT() no MySQL"
 date: 2017-06-24 14:57:38
 category: MySQL
 comments: true
+description: "Explicando sobre group_concat() no MySql"
 ---
 
 

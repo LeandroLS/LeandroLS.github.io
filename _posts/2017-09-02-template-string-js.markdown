@@ -2,6 +2,7 @@
 title:  "Template String em JavaScript"
 date:   2017-08-21 19:36:00
 comments: true
+description: "Template Strng em Javascript"
 ---
 Olá, segue um post bem curto sobre [Template String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/template_strings), um recurso bem interessante do JavaScritp que eu só descobri que existe recentemente. 
 

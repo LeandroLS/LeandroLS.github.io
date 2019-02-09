@@ -3,6 +3,7 @@ title:  "Recuperando no PHP form input's que tenham o mesmo nome"
 date:   2017-07-05 20:48:36
 category: PHP
 comments: true
+description: "Recuperando inputs com o mesmo nome"
 ---
 
 Imaginem o seguinte formulário:

@@ -4,6 +4,7 @@ date: 2019-01-07
 category: Javascript
 comments: true
 thumbnail: false
+description: "Sobre meu projeto ClimaHoje"
 ---
 Recentemente eu tenho estudado bastante NodeJS. Pra quem se interessar e quiser estudar também, recomendo bastante o curso desse site [NodeJs para iniciantes](https://treinamento.nodebr.org), é totalmente gratuito.
 

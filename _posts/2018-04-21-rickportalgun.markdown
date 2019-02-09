@@ -2,6 +2,7 @@
 title:  "Site sobre Rick and Morty criado por mim"
 date:   2018-04-21 11:00:00
 comments: true
+description: "Sobre o site https://rickportalgun.com"
 ---
 Olá,
 

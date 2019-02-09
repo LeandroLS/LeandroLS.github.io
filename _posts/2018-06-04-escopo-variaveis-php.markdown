@@ -3,6 +3,7 @@ title:  "Escopo de variável e a palavra chave global em PHP"
 date: 2018-06-05 10:03:48
 category: PHP
 comments: true
+description: "Explicando sobre escopo de variaveis em PHP"
 ---
 
 Após definir uma variável em PHP, o escopo dela é o escopo do seu contexto atual, onde ela foi definida.
