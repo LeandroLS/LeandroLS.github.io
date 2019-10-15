@@ -1,4 +1,5 @@
-### Repositório do meu [blog](https://leandrols.github.io). O nome do tema que eu uso é "Moon", se quiser usar também, basta clicar nos links abaixo para ter mais informações.
+### Repositório do meu [blog](https://leandrols.github.io).  
+O nome do tema que eu uso é "Moon", se quiser usar também, basta ler a documentação abaixo pra saber como usa-lo.
 
 
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)    
