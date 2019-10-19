@@ -5,11 +5,13 @@ category: Regex
 description: "Finalmente aprendi expressão regular"
 comments: true
 ---
-<!-- ## Introdução -->
+## Introdução
 Já fazia algum tempo que eu me arriscava a aprender expressão regular com tutoriais de internet, mas não conseguia aprender de fato, não sei porque, mas nunca funcionou pra mim.  
-Um dia no meu trabalho, tive que percorrer um arquivo .txt e procurar um determinado valor nele, como eu não sabia expressão regular, tive muita dificuldade.  
-<!-- ## E daí ? -->
-A difículdade que eu tive serviu de motivação pra eu aprender expressão regular de uma vez por todas, dessa vez eu não fui atrás de tutorial de internet, fui atrás de um livro, e essa decisão foi muito acertiva.  
-O livro que eu comprei é o [Expressões Regulares - 5ª edição: Uma Abordagem Divertida](https://www.amazon.com.br/Express%C3%B5es-Regulares-edi%C3%A7%C3%A3o-Abordagem-Divertida-ebook/dp/B01BPK1W46). Com esse livro eu finalmente consegui aprender expressão regular, os exemplos são extremamente claros, não é um livro verboso cheio de explicações complicadas. O livro é relativamente curto, o que pra mim é um ponto positivo.  
-<!-- ## Conclusão -->
+Um dia no meu trabalho, tive que percorrer um arquivo .txt e procurar um determinado valor nele, como eu não sabia expressão regular, tive muita dificuldade.
+
+## E daí ?
+A difículdade que eu tive serviu de motivação pra eu aprender expressão regular de uma vez por todas, dessa vez eu não fui atrás de tutorial de internet, fui atrás de um livro, e essa decisão foi muito acertiva.
+O livro que eu comprei é o [Expressões Regulares - 5ª edição: Uma Abordagem Divertida](https://www.amazon.com.br/Express%C3%B5es-Regulares-edi%C3%A7%C3%A3o-Abordagem-Divertida-ebook/dp/B01BPK1W46). Com esse livro eu finalmente consegui aprender expressão regular, os exemplos são extremamente claros, não é um livro verboso cheio de explicações complicadas. O livro é relativamente curto, o que pra mim é um ponto positivo.
+
+## Conclusão
 Se você também tem dificuldade em aprender Expressão Regular em tutoriais de internet ou em explicações superficiais, recomendo muito que você dê uma chance pra esse livro.
