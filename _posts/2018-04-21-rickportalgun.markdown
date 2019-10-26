@@ -14,3 +14,6 @@ Link para o site:
 A principal biblioteca que utilizei pra fazer o site foi o VueJS.
 
 :)
+
+### Atualizado 10/2019
+O SEO do site estava muito ruim, quase ninguém acessava e me gerava custos de hospedagem. Acabei removendo ele do ar.
